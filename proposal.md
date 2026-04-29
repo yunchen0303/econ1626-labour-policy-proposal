@@ -101,3 +101,40 @@ Without intervention, AI is likely to increase productivity while weakening labo
 | Labour share in high-exposure industries | At or above 2024 benchmark |
 | Skills program outcomes | Annual completion and post-training employment rates published |
 | Disclosure coverage | At least 80% of in-scope employers by Year 3 |
+
+## 6. Risks and Mitigations
+
+The main implementation risks are under-investment, weak compliance, and firms disguising displacement as augmentation. These risks can be managed through modest levy design, standardised disclosure templates, and Fair Work-linked consultation pathways.
+
+| Risk | Mitigation |
+|---|---|
+| Levy deters AI investment | Modest reviewable rate; SME exemption; sunset clause |
+| Skills programs become supply-driven | Worker-directed vouchers; annual JSA employer feedback loop |
+| Shadow AI use stays unmeasured | Pair disclosure with amnesty and positive incentives, not surveillance |
+| Firms relabel automation as augmentation | Standardised templates; benchmarking; Fair Work compliance pathways |
+
+## References
+
+Acemoglu D and Restrepo P (2019) ‘Automation and New Tasks: How Technology Displaces and Reinstates Labour’, *Journal of Economic Perspectives*, 33(2):3–30, doi:10.1257/jep.33.2.3.
+
+—— (2022) ‘Tasks, Automation, and the Rise in U.S. Wage Inequality’, *Econometrica*, 90(5):1973–2016, doi:10.3982/ecta19815.
+
+Autor DH, Levy F and Murnane RJ (2003) ‘The Skill Content of Recent Technological Change: an Empirical Exploration’, *The Quarterly Journal of Economics*, 118(4):1279–1333, doi:10.1162/003355303322552801.
+
+Brynjolfsson E, Li D and Raymond L (2025) ‘Generative AI at Work’, *The Quarterly Journal of Economics*, 140(2), doi:10.1093/qje/qjae044.
+
+Dell'Acqua F, McFowland E, Mollick ER, Lifshitz-Assaf H, Kellogg K, Rajendran S, Krayer L, Candelon F and Lakhani KR (2023) *Navigating the jagged technological frontier: field experimental evidence of the effects of AI on knowledge worker productivity and quality*, Harvard Business School working paper 24-013, Harvard Business School, accessed 23 April 2026. https://www.hbs.edu/faculty/Pages/item.aspx?num=64700
+
+Hui X, Reshef O and Zhou L (2024) ‘The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labour Market’, *Organization Science*, 35(6), doi:10.1287/orsc.2023.18441.
+
+Jiang W, Park J, Xiao R and Zhang S (2025) *AI and the extended workday: productivity, contracting efficiency, and distribution of rents*, NBER working paper no. 33536, National Bureau of Economic Research, accessed 26 April 2026. https://www.nber.org/papers/w33536
+
+JSA (Jobs and Skills Australia) (2025) *Our gen AI transition: implications for work and skills*, Jobs and Skills Australia, Canberra, accessed 24 April 2026. https://www.jobsandskills.gov.au/publications/generative-ai-capacity-study-report
+
+Lin J (2011) ‘Technological adaptation, cities, and new work’, *Review of Economics and Statistics*, 93(2):554–574, doi:10.1162/REST_a_00079.
+
+OECD (Organisation for Economic Co-operation and Development) (2024) *Artificial intelligence and the changing demand for skills in the labour market*, OECD Publishing, Paris, accessed 24 April 2026. https://www.oecd.org/en/publications/artificial-intelligence-and-the-changing-demand-for-skills-in-the-labour-market_88684e36-en.html
+
+Productivity Commission (2024) *Making the most of the AI opportunity: AI uptake, productivity, and the role of government*, Productivity Commission, Canberra, accessed 25 April 2026. https://www.pc.gov.au/inquiries-and-research/making-the-most-of-the-ai-opportunity/
+
+Waters-Lynch J, Allen DWE, Potts J and Berg C (2024) *Managing generative AI in firms: the theory of shadow user innovation*, Chris Berg website, accessed 24 April 2026. https://chrisberg.org/2024/04/managing-generative-ai-in-firms-the-theory-of-shadow-user-innovation/
