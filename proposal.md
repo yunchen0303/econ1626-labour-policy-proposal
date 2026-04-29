@@ -62,3 +62,15 @@ This option integrates AI literacy into schools, VET, TAFE and higher education,
 
 **Strength:** Builds long-run adaptability.  
 **Limitation:** Slow payoff for currently displaced workers.
+
+## 4. Evaluation of Policy Options
+
+Each option addresses a distinct failure: C builds the long-run skill base, A provides the financial bridge, and B generates the transparency and accountability that make the others enforceable. Skills policy alone is too slow; transition accounts alone are reactive; adoption standards alone provide no safety net.
+
+| Criterion | A — Transition Accounts | B — Augmentation-First | C — Skills Pipeline |
+|---|---|---|---|
+| Productivity impact | Medium–High | High | High |
+| Distributional equity | High | Medium | Medium |
+| Fiscal feasibility | Partially self-funding; complex | Low cost; existing levers | Medium cost; existing system |
+| Speed of implementation | Medium (legislation) | Medium | Fast |
+| Political durability | Contested | Moderate | High |
