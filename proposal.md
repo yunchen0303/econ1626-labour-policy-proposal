@@ -74,3 +74,30 @@ Each option addresses a distinct failure: C builds the long-run skill base, A pr
 | Fiscal feasibility | Partially self-funding; complex | Low cost; existing levers | Medium cost; existing system |
 | Speed of implementation | Medium (legislation) | Medium | Fast |
 | Political durability | Contested | Moderate | High |
+
+## 5. Recommended Package and Implementation
+
+The recommended approach is a coordinated policy package rather than a single instrument, as the risks of AI transition arise from multiple interacting failures.
+
+A sequenced three-phase package reflects different lead times and ensures the foundations for Option A are built during Phases 1 and 2.
+
+Coordination will require a joint task force between DEWR, Treasury, and the Department of Finance to align skills, funding, and procurement settings.
+
+Labour share is included because the proposal aims to prevent gains being captured disproportionately by capital, not only to improve re-employment.
+
+The goal is not to slow AI adoption, but to make adoption politically durable by ensuring workers can see a pathway through the transition.
+
+Without intervention, AI is likely to increase productivity while weakening labour’s bargaining position, creating a gap between economic efficiency and social outcomes.
+
+| Phase | Timeframe | Action | Lead | Cost logic |
+|---|---|---|---|---|
+| 1 | 0–12 months | Launch Option C; begin task-exposure disclosure; map high-exposure cohorts | DEWR | Within existing skills envelopes |
+| 2 | 12–24 months | Pilot Transition Accounts in 2–3 high-exposure industries; design levy | Treasury and DEWR | Levy offsets share of costs |
+| 3 | 24–36 months | Finalise procurement preferences and workplace guidance using Phase 1 data | Department of Finance | Low incremental cost |
+
+| KPI | Target |
+|---|---|
+| Re-employment of displaced workers | Within six months; earnings tracked against pre-displacement baseline |
+| Labour share in high-exposure industries | At or above 2024 benchmark |
+| Skills program outcomes | Annual completion and post-training employment rates published |
+| Disclosure coverage | At least 80% of in-scope employers by Year 3 |
