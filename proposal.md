@@ -37,3 +37,28 @@ AI adoption is contributing to the growth in productivity divergence among front
 
 The negative consequences of AI adoption are unlikely to be equally distributed. AI exposure is concentrated in clerical, administrative and entry-level knowledge work. Regional labour markets may also provide fewer alternative employment pathways. There is a disproportionate impact of task-level automation on labour market inequities, as the majority of the clerical roles impacted by AI are occupied by women (OECD, 2024). Waters-Lynch et al. (2024) argue that "shadow" AI also causes the loss of the ability to measure and learn as an organisation.
 
+
+## 3. Policy Options
+
+The challenge operates across three channels: transition costs, deployment incentives, and long-run skills adaptation. No single instrument addresses all three.
+
+### Option A — AI Transition Accounts
+
+This option would provide portable support combining learning vouchers with temporary income smoothing for workers displaced from AI-exposed roles. It would be funded through a modest, reviewable levy on large firms, with a rate and threshold set through pilot consultation. The underlying principle is that firms capturing AI-driven gains should bear part of the externalised transition cost.
+
+**Strength:** Direct worker transition support.  
+**Limitation:** Politically difficult and legislation-dependent.
+
+### Option B — Augmentation-First Adoption Standard
+
+This option proposes extensions of AI deployment beyond minor impacts on large employers. Task-level exposure reporting becomes the norm. Commonwealth procurement will prioritise augmentation-first designs. Formal worker consultation will be mandated to address major changes brought about by AI. Procurement leniency and consultation complement each other; procurement creates vendor incentives, and consultation precludes high-displacement, low-productivity settings.
+
+**Strength:** Changes employer behaviour.  
+**Limitation:** Depends on compliance quality.
+
+### Option C — Lifelong AI-Literacy Pipeline
+
+This option integrates AI literacy into schools, VET, TAFE and higher education, while adding a light-touch advisory stream to SMEs to strengthen immediate capability in the shorter term. The effectiveness relies on developing courses to meet real employer needs.
+
+**Strength:** Builds long-run adaptability.  
+**Limitation:** Slow payoff for currently displaced workers.
