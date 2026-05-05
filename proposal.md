@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-Generative AI is causing the reallocation of tasks in the Australian workplace rather than immediate job losses. Currently, the primary risk is in adjustment imbalances. Employers, particularly large firms and global platforms, reportedly gain the most from productivity improvements, while exposed employees, small and medium-sized enterprises, and regional labour markets are left to carry the adjustment costs. However, the JSA (2025) reports that productivity improvements in these sectors do not necessarily lead to shorter work hours or higher wages. This brief evaluates three options — AI Transition Accounts, an Augmentation-First Adoption Standard, and a Lifelong AI-Literacy Pipeline — and recommends a sequenced package: begin with skills and disclosure, pilot AI Transition Accounts, then finalise procurement and workplace guidance once disclosure data is available. The sequencing reflects feasibility constraints, since skills and disclosure can begin under existing institutions, whereas transition accounts require both legislation and pilot evidence to be designed responsibly.
+Generative AI is causing the reallocation of tasks in the Australian workplace rather than immediate job losses. Currently, the primary risk is in adjustment imbalances. Employers, particularly large firms and global platforms, reportedly gain the most from productivity improvements, while exposed employees, small and medium-sized enterprises, and regional labour markets are left to carry the adjustment costs. However, the JSA (2025) reports that productivity improvements in these sectors do not necessarily lead to shorter work hours or higher wages. This brief evaluates three options — AI Transition Accounts, an Augmentation-First Adoption Standard, and a Lifelong AI-Literacy Pipeline — and recommends a sequenced package: begin with skills and disclosure, pilot AI Transition Accounts, then finalise procurement and workplace guidance once disclosure data is available. 
 
 ## 1. Problem Definition and Context
 
@@ -27,11 +27,11 @@ AI restructures jobs by reassigning tasks within occupations before eliminating 
 
 ### 2.3 Wages
 
-Productivity gains do not automatically pass through to wages. Acemoglu and Restrepo (2022) show how automation can shift income away from labour when task displacement is not matched by strong new task creation. Jiang et al. (2025) show that AI exposure leads to longer work hours and shorter leisure time, meaning that the work efficiency gains are not transformed into a reduction of work hours, but instead added to the workload. After major AI-enabled tools were implemented, Hui, Reshef, and Zhou (2024) show that freelancers in the most AI-exposed occupations faced short-term declines in employment and income. There is little reason to believe that market forces will align the benefits of productivity with the well-being of the workforce.
+Productivity gains do not automatically pass through to wages. Acemoglu and Restrepo (2022) show how automation can shift income away from labour when task displacement is not matched by strong new task creation. Jiang et al. (2025) show that AI exposure leads to longer work hours and shorter leisure time, meaning that the work efficiency gains are not transformed into a reduction of work hours, but instead added to the workload. After major AI-enabled tools were implemented, Hui, Reshef, and Zhou (2024) show that freelancers in the most AI-exposed occupations faced short-term declines in employment and income.
 
 ### 2.4 Industry Structure
 
-AI adoption is contributing to the growth in productivity divergence among frontier firms and the rest of the economy. Frontier firms are large enough to employ and fund AI tools and specialists, whereas numerous SMEs are not. The Productivity Commission (2024) points to this as a major concern: absent a targeted strategy, AI is likely to raise economy-wide productivity while increasing firm-level concentration. This creates a competition policy concern: AI may widen productivity gaps between large firms and SMEs, reinforcing market concentration rather than broad-based productivity diffusion.
+AI adoption is contributing to the growth in productivity divergence among frontier firms and the rest of the economy. Frontier firms are large enough to employ and fund AI tools and specialists, whereas numerous SMEs are not. The Productivity Commission (2024) points to this as a major concern: absent a targeted strategy, AI is likely to raise economy-wide productivity while increasing firm-level concentration. This raises a competition concern: AI may reinforce concentration rather than broad-based productivity diffusion.
 
 
 ### 2.5 Distribution
@@ -76,15 +76,13 @@ Each option addresses a distinct failure: C builds the long-run skill base, A pr
 | Speed of implementation | Medium (legislation) | Medium | Fast |
 | Political durability | Contested | Moderate | High |
 
-The main trade-off is between speed, equity and political feasibility. Option C is fastest and most durable but does little for workers already displaced. Option A is strongest on equity but politically difficult. Option B is cheaper and shapes employer behaviour, but its success depends on compliance quality. Therefore, the strongest approach is not to choose one option, but to sequence all three.
+The main trade-off is between speed, equity and political feasibility. Option C is fastest but weak for current displacement; Option A is fairest but politically difficult; Option B is cheaper but compliance-dependent. This supports a sequenced package rather than a single option.
 
 ## 5. Recommended Package and Implementation
 
 The recommended approach is a coordinated policy package rather than a single instrument, as the risks of AI transition arise from multiple interacting failures.
 
 Coordination will require a joint task force between DEWR, Treasury, and the Department of Finance to align skills, funding, and procurement settings.
-
-The goal is not to slow AI adoption, but to make adoption politically durable by ensuring workers can see a pathway through the transition.
 
 | Phase | Timeframe | Action | Lead | Cost logic |
 |---|---|---|---|---|
