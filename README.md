@@ -19,6 +19,9 @@ The proposal focuses on:
 - `proposal.md` — the full policy proposal
 - `README.md` — project overview and navigation guide
 
+## Topic
+Preparing Australia's labour market for the AI transition.
+
 ## How to Navigate
 
 Please open `proposal.md` to read the full policy proposal.
