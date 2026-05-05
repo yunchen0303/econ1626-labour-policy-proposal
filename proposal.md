@@ -52,7 +52,7 @@ This option would provide portable support combining learning vouchers with temp
 
 ### Option B — Augmentation-First Adoption Standard
 
-This option proposes extensions of AI deployment beyond minor impacts on large employers. Task-level exposure reporting becomes the norm. Commonwealth procurement will prioritise augmentation-first designs. Formal worker consultation will be mandated to address major changes brought about by AI. Procurement leniency and consultation complement each other; procurement creates vendor incentives, and consultation precludes high-displacement, low-productivity settings.
+This option would require large employers to report significant AI deployments that materially change tasks, staffing, or work intensity. Task-level exposure reporting becomes the norm. Commonwealth procurement will prioritise augmentation-first designs. Formal worker consultation will be mandated to address major changes brought about by AI. Procurement leniency and consultation complement each other; procurement creates vendor incentives, and consultation precludes high-displacement, low-productivity settings.
 
 **Strength:** Changes employer behaviour.  
 **Limitation:** Depends on compliance quality.
