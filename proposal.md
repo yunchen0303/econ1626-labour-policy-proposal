@@ -13,7 +13,7 @@ Generative AI is causing the reallocation of tasks in the Australian workplace r
 
 Acemoglu and Restrepo's (2019) task framework identifies three channels through which automation operates: displacement, aggregate productivity gains, and reinstatement of new human tasks. Lin (2011) shows that newly created occupations historically drove net employment growth. Generative AI complicates this pattern because it targets non-routine cognitive tasks that earlier waves of automation largely left untouched (Autor, Levy and Murnane 2003).
 
-The policy problem is not adoption itself but the distribution of adjustment costs. Where firms adopt AI mainly to cut headcount, workers face faster skill churn and weakened bargaining positions. Because most foundation models and cloud platforms are owned by global firms, a portion of AI-related rents may flow offshore, narrowing the domestic base available to fund transition support.
+The core policy problem is that AI adoption creates productivity gains privately, while adjustment costs are carried socially by workers, SMEs and exposed regions. Where firms adopt AI mainly to cut headcount, workers face faster skill churn and weakened bargaining positions. Because most foundation models and cloud platforms are owned by global firms, a portion of AI-related rents may flow offshore, narrowing the domestic base available to fund transition support.
 
 ## 2. Analysis of Impacts
 
@@ -31,7 +31,8 @@ Productivity gains do not automatically pass through to wages. Acemoglu and Rest
 
 ### 2.4 Industry Structure
 
-AI adoption is contributing to the growth in productivity divergence among frontier firms and the rest of the economy. Frontier firms are large enough to have the ability to employ and fund AI tools and specialists, whereas numerous SMEs are not. The Productivity Commission (2024) points to this as a major concern: absent a targeted strategy, AI is likely to raise economy-wide productivity while increasing firm-level concentration.
+AI adoption is contributing to the growth in productivity divergence among frontier firms and the rest of the economy. Frontier firms are large enough to employ and fund AI tools and specialists, whereas numerous SMEs are not. The Productivity Commission (2024) points to this as a major concern: absent a targeted strategy, AI is likely to raise economy-wide productivity while increasing firm-level concentration. This creates a competition policy concern: AI may widen productivity gaps between large firms and SMEs, reinforcing market concentration rather than broad-based productivity diffusion.
+
 
 ### 2.5 Distribution
 
