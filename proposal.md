@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-Generative AI is causing the reallocation of tasks in the Australian workplace rather than immediate job losses. Currently, the primary risk is in adjustment imbalances. Employers, particularly large firms and global platforms, reportedly gain the most from productivity improvements, while exposed employees, small and medium-sized enterprises, and regional labour markets are left to carry the adjustment costs. GenAI has the potential to transform knowledge-intensive jobs. However, the JSA (2025) reports that productivity improvements in these sectors do not necessarily lead to shorter work hours or higher wages. This brief evaluates three options — AI Transition Accounts, an Augmentation-First Adoption Standard, and a Lifelong AI-Literacy Pipeline — and recommends a sequenced package: begin with skills and disclosure, pilot AI Transition Accounts, then finalise procurement and workplace guidance once disclosure data is available. The sequencing reflects feasibility constraints, since skills and disclosure can begin under existing institutions, whereas transition accounts require both legislation and pilot evidence to be designed responsibly.
+Generative AI is causing the reallocation of tasks in the Australian workplace rather than immediate job losses. Currently, the primary risk is in adjustment imbalances. Employers, particularly large firms and global platforms, reportedly gain the most from productivity improvements, while exposed employees, small and medium-sized enterprises, and regional labour markets are left to carry the adjustment costs. However, the JSA (2025) reports that productivity improvements in these sectors do not necessarily lead to shorter work hours or higher wages. This brief evaluates three options — AI Transition Accounts, an Augmentation-First Adoption Standard, and a Lifelong AI-Literacy Pipeline — and recommends a sequenced package: begin with skills and disclosure, pilot AI Transition Accounts, then finalise procurement and workplace guidance once disclosure data is available. The sequencing reflects feasibility constraints, since skills and disclosure can begin under existing institutions, whereas transition accounts require both legislation and pilot evidence to be designed responsibly.
 
 ## 1. Problem Definition and Context
 
@@ -36,7 +36,7 @@ AI adoption is contributing to the growth in productivity divergence among front
 
 ### 2.5 Distribution
 
-The negative consequences of AI adoption are unlikely to be equally distributed. AI exposure is concentrated in clerical, administrative and entry-level knowledge work. Regional labour markets may also provide fewer alternative employment pathways. There is a disproportionate impact of task-level automation on labour market inequities, as the majority of the clerical roles impacted by AI are occupied by women (OECD, 2024). Waters-Lynch et al. (2024) argue that "shadow" AI also causes the loss of the ability to measure and learn as an organisation.
+The negative consequences of AI adoption are unlikely to be equally distributed. AI exposure is concentrated in clerical, administrative and entry-level knowledge work. This may deepen gender inequality because many exposed clerical roles are held by women (OECD, 2024). Waters-Lynch et al. (2024) argue that "shadow" AI also causes the loss of the ability to measure and learn as an organisation.
 
 
 ## 3. Policy Options
@@ -52,7 +52,7 @@ This option would provide portable support combining learning vouchers with temp
 
 ### Option B — Augmentation-First Adoption Standard
 
-This option would require large employers to report significant AI deployments that materially change tasks, staffing, or work intensity. Task-level exposure reporting becomes the norm. Commonwealth procurement will prioritise augmentation-first designs. Formal worker consultation will be mandated to address major changes brought about by AI. Procurement leniency and consultation complement each other; procurement creates vendor incentives, and consultation precludes high-displacement, low-productivity settings.
+This option would require large employers to report significant AI deployments that materially change tasks, staffing, or work intensity. Task-level exposure reporting becomes the norm. Commonwealth procurement will prioritise augmentation-first designs. Formal worker consultation will be mandated to address major changes brought about by AI. Procurement preferences and consultation complement each other; procurement creates vendor incentives, and consultation precludes high-displacement, low-productivity settings.
 
 **Strength:** Changes employer behaviour.  
 **Limitation:** Depends on compliance quality.
@@ -76,19 +76,15 @@ Each option addresses a distinct failure: C builds the long-run skill base, A pr
 | Speed of implementation | Medium (legislation) | Medium | Fast |
 | Political durability | Contested | Moderate | High |
 
+The main trade-off is between speed, equity and political feasibility. Option C is fastest and most durable but does little for workers already displaced. Option A is strongest on equity but politically difficult. Option B is cheaper and shapes employer behaviour, but its success depends on compliance quality. Therefore, the strongest approach is not to choose one option, but to sequence all three.
+
 ## 5. Recommended Package and Implementation
 
 The recommended approach is a coordinated policy package rather than a single instrument, as the risks of AI transition arise from multiple interacting failures.
 
-A sequenced three-phase package reflects different lead times and ensures the foundations for Option A are built during Phases 1 and 2.
-
 Coordination will require a joint task force between DEWR, Treasury, and the Department of Finance to align skills, funding, and procurement settings.
 
-Labour share is included because the proposal aims to prevent gains being captured disproportionately by capital, not only to improve re-employment.
-
 The goal is not to slow AI adoption, but to make adoption politically durable by ensuring workers can see a pathway through the transition.
-
-Without intervention, AI is likely to increase productivity while weakening labour’s bargaining position, creating a gap between economic efficiency and social outcomes.
 
 | Phase | Timeframe | Action | Lead | Cost logic |
 |---|---|---|---|---|
@@ -98,9 +94,9 @@ Without intervention, AI is likely to increase productivity while weakening labo
 
 | KPI | Target |
 |---|---|
-| Re-employment of displaced workers | Within six months; earnings tracked against pre-displacement baseline |
-| Labour share in high-exposure industries | At or above 2024 benchmark |
-| Skills program outcomes | Annual completion and post-training employment rates published |
+| Re-employment of displaced workers | At least 70% re-employed within six months |
+| Earnings recovery | At least 80% of participants return to 90% of pre-displacement earnings within 12 months |
+| Skills program outcomes | 75% completion rate in subsidised AI-literacy programs |
 | Disclosure coverage | At least 80% of in-scope employers by Year 3 |
 
 ## 6. Risks and Mitigations
